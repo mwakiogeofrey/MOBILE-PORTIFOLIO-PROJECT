@@ -1,6 +1,6 @@
-# MOBILE-PORTIFOLIO-PROJECT# PORTFOLIO-PROJECT
+# MOBILE-PORTIFOLIO-PROJECT
 The project is about creating a mobile version portfolio
- PORTFOLIO-PROJECT
+ MOBILE-PORTFOLIO-PROJECT
 
 <!-- TABLE OF CONTENTS -->
 
@@ -29,13 +29,13 @@ The project is about creating a mobile version portfolio
 
 # 📖 [mwakiogeofrey
 /
-PORTFOLIO-PROJECT] <a name="about-project"></a>
+MOBILE-PORTFOLIO-PROJECT] <a name="about-project"></a>
 
 
 
 **[mwakiogeofrey
 /
-PORTFOLIO-PROJECT]** is a project to demonstrate ability in making and cloning the
+MOBILE-PORTFOLIO-PROJECT]** is a project to demonstrate ability in making and cloning the
 the mobile version of website by adding linters and adding styling the html file using css stylesheet.
 
 
@@ -72,7 +72,7 @@ This project has been made using html and css only according to project requirem
 
 <!-- Note: Right now Application hasn't been Deployed yet. In future if this will be deployed,
 Deployed Link will update here -->
-- [Live Demo Link](https://yourdeployedapplicationlink.com) 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,7 +103,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/mwakiogeofrey/PORTFOLIO-PROJECT.git
+  git clone https://github.com/mwakiogeofrey/MOBILE-PORTFOLIO-PROJECT.git
 ```
 --->
 
@@ -200,5 +200,3 @@ I would like to thank Microverse for inspiring me enough to make this project an
 
 This project is [MIT](./LICENSE) licensed.
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p
