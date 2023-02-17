@@ -139,19 +139,10 @@ You can deploy this project using:
 By purchasing domain and hosting
  -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-
-
 👤 **Author**
 
 - GitHub: [@mwakiogeofrey](https://github.com/mwakiogeofrey)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
