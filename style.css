@@ -26,6 +26,10 @@ body {
   height: 460px;
   top: 70px;
   background: #1c1a19;
+  background-image: url("images/Illustration.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-position-y: bottom;
 }
 
 .enable {
@@ -100,14 +104,6 @@ body {
   flex-grow: 0;
   margin-top: -5px;
   font-family: 'Poppins', sans-serif;
-}
-
-.illast {
-  position: absolute;
-  left: 65.2%;
-  right: -40.09%;
-  top: 39.3%;
-  bottom: -11.63%;
 }
 
 .plat {
