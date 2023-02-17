@@ -1,5 +1,11 @@
+body {
+  background-color: #fff;
+}
+
 .container {
   display: flex;
+  margin-left: -7px;
+  margin-top: -7px;
 }
 
 .box {
@@ -18,7 +24,7 @@
   position: absolute;
   width: 375px;
   height: 460px;
-  top: 78px;
+  top: 70px;
   background: #1c1a19;
 }
 
@@ -31,9 +37,10 @@
 }
 
 .name {
-  margin-left: 24px;
   color: #fff;
-  margin-top: 40px;
+  position: absolute;
+  top: 40px;
+  margin-left: 16px;
 }
 
 .intro {
@@ -97,7 +104,7 @@
 
 .illast {
   position: absolute;
-  left: 65.74%;
+  left: 65.2%;
   right: -40.09%;
   top: 39.3%;
   bottom: -11.63%;
@@ -118,4 +125,23 @@
   bottom: 9.36%;
   border: 0.496227px solid #ff6b00;
   transform: matrix(-0.96, 0.27, 0.27, 0.96, 0, 0);
+}
+
+ul.social_media {
+  display: flex;
+  list-style-type: none;
+  column-gap: 16px;
+  padding: 4px;
+}
+
+#contact_social {
+  justify-content: center;
+  margin-top: -25px;
+  margin-left: 10px;
+}
+
+#contact_social i {
+  color: #fff;
+  font-size: 20px;
+  margin-top: 30px;
 }
