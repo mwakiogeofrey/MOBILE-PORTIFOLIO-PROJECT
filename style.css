@@ -1,6 +1,7 @@
 body {
   background: #e5e5e5;
   width: 100%;
+  margin: 0;
 }
 
 .container {
@@ -14,9 +15,9 @@ body {
   align-items: center;
   gap: 80px;
   position: absolute;
-  width: 375px;
+  width: 400px;
   height: 3455px;
-  top: 646px;
+  top: 638px;
   background: #fff;
 }
 
@@ -24,7 +25,7 @@ body {
   display: flex;
   flex-direction: column;
   position: absolute;
-  width: 375px;
+  width: 400px;
   height: 48px;
   background: #3c3a39;
 }
@@ -33,9 +34,9 @@ body {
   display: flex;
   flex-direction: column;
   position: absolute;
-  width: 375px;
+  width: 400px;
   height: 590px;
-  top: 56px;
+  top: 48px;
   background: #1c1a19;
 }
 
@@ -141,7 +142,7 @@ footer {
 
 .illast {
   position: absolute;
-  left: 60.74%;
+  left: 63.2%;
   right: -30.09%;
   top: 29.3%;
   bottom: -11.63%;
@@ -156,14 +157,13 @@ footer {
 }
 
 .mine {
-  height: 83px;
+  height: 8px;
   font-family: "Crete Round", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 40px;
-  margin-top: 150px;
+  margin-top: 130px;
   display: flex;
-  align-items: center;
   color: #1c1a19;
   flex: none;
   text-align: center;
@@ -173,6 +173,7 @@ footer {
   width: 327px;
   background-color: #a39f9f;
   flex: none;
+  margin-top: 100px;
   order: 1;
 }
 
@@ -222,13 +223,61 @@ footer {
   display: flex;
   flex-direction: row;
   align-items: center;
+  list-style: none;
+  margin-left: -70px;
   gap: 12px;
-  width: 375px;
+  width: 297px;
+  margin-top: -80px;
   height: 40px;
-  margin-top: -70px;
-  flex: none;
-  margin-left: 40px;
-  order: 2;
+}
+
+.mhh {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-size-adjust: 20px;
+  padding: 10px 12px;
+  width: 49px;
+  height: 40px;
+  background: #fff;
+  border: 1px solid #8993a4;
+}
+
+.htmn {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 12px;
+  width: 56px;
+  height: 40px;
+  background: #fff;
+  border: 1px solid #8993a4;
+}
+
+.rubb {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 12px;
+  width: 61px;
+  height: 40px;
+  background: #fff;
+  border: 1px solid #8993a4;
+}
+
+.boot {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 12px;
+  width: 95px;
+  height: 40px;
+  background: #fff;
+  border: 1px solid #8993a4;
 }
 
 .see {
@@ -254,12 +303,20 @@ footer {
   padding: 12px;
   gap: 10px;
   width: 124px;
-  height: 46px;
-  background: #ff6b00;
-  flex: none;
-  order: 3;
-  margin-top: 150px;
-  margin-left: -310px;
+  margin-top: -80px;
+  height: 30px;
+  margin-left: -180px;
+  background: #ff6B00;
+  cursor: pointer;
+}
+
+.project:hover {
+  background: #b88d74;
+  cursor: pointer;
+}
+
+.project:active {
+  background: #f3610c;
 }
 
 .home {
@@ -299,7 +356,7 @@ footer {
   font-size: 32px;
   line-height: 44px;
   margin-left: 20px;
-  margin-top: 80px;
+  margin-top: 30px;
   color: #fff;
   flex: none;
 }
@@ -352,7 +409,7 @@ footer {
   background-image: url("images/Mask\ Group\ \(1\).png");
   width: 327px;
   height: 386px;
-  margin-top: 20px;
+  margin-top: -31px;
 }
 
 .three {
@@ -664,10 +721,11 @@ footer {
 }
 
 .about {
+  display: flex;
   position: absolute;
-  width: 375px;
+  width: 400px;
   height: 2200px;
-  top: 3440px;
+  top: 3445px;
   background: #1c1a19;
 }
 
@@ -720,7 +778,7 @@ footer {
 
 .groupicon {
   position: absolute;
-  left: 57.3%;
+  left: 60%;
   right: -99.81%;
   top: 20.13%;
   bottom: 0.07%;
