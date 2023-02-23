@@ -4,7 +4,7 @@ body {
 }
 
 .container {
-  display: flex;
+  display: grid;
   width: 500px;
   margin: 0;
 }
@@ -371,7 +371,7 @@ body {
   width: 327px;
   height: 48px;
   margin-top: 20px;
-  text-align: center;
+  text-align: center; 
 }
 
 .seeme {
@@ -916,6 +916,7 @@ body {
   gap: 12px;
   width: 281.81px;
   height: 49.61px;
+  margin-left: 30px;
 }
 
 .frame {
@@ -953,6 +954,7 @@ body {
   padding: 10px;
   gap: 8px;
   margin-top: 100px;
+  margin-left: 40px;
   width: 186px;
   height: 272px;
   flex: none;
@@ -1052,6 +1054,7 @@ body {
   width: 138px;
   height: 60px;
   flex: none;
+  margin-top: -10px;
 }
 
 .mmk {
@@ -1066,14 +1069,13 @@ body {
   flex: none;
   order: 1;
   flex-grow: 0;
-  margin-left: -70px;
 }
 
 .pic2 {
   width: 18px;
   height: 18px;
   margin-top: 230px;
-  margin-left: -10px;
+  margin-left: 80px;
   background: #ff6b00;
   border-radius: 150px;
   flex: none;
